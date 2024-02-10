@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: SizhuangHe
+  name: Sizhuang He
   image: author.png
-  greeting: "Your new Qubt site :tada:"
+  greeting: "Welcome to the website of Sizhuang He!"
   icon: ":wave:"
 
 ############################
@@ -13,12 +13,12 @@ author:
 ############################
 
 links:
-  - github: https://github.com/SizhuangHe/my_website
-  - link: https://github.com/SizhuangHe/my_website#readme
+  - github: https://github.com/SizhuangHe
+  # - link: https://github.com/SizhuangHe/my_website#readme
   # - website: 
-  # - x-twitter: 
+  - x-twitter: https://twitter.com/sizhuang_
   # - mastodon: 
-  # - linkedin: 
+  - linkedin: https://www.linkedin.com/in/sizhuanghe/
   # - instagram: 
   # - reddit: 
   # - telegram: 
@@ -26,7 +26,7 @@ links:
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
+  # - email: mailto:sizhuang@umich.edu 
   # - discord: 
   # - orcid: 
   # - slack: 
@@ -64,7 +64,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: my_website
+title: Sizhuang's website
 description: "Site build with Qubt & Hugo"
 images:
-  - thumbnail.png
+  - author.png
